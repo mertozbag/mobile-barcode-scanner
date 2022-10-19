@@ -1,5 +1,4 @@
 import time
-
 import requests
 import cv2
 import numpy as np
@@ -7,6 +6,7 @@ import imutils
 from pyzbar import pyzbar
 import openpyxl
 import telegram_send
+
 """
 It`s a script for mobile barcode scanner.
 Start a server from IP Webcam - Google Playstore,
