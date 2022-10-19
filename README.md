@@ -5,7 +5,7 @@ It can be used on Android Devices.
 
 Both devices must be connected on the same internet point.
 
-Telegram bot configuration should be done via console before start.
+Telegram bot configuration should be done before start.
 
 IP Webcam - Google Play application used in order to pass the image from phone camera to python.
 
