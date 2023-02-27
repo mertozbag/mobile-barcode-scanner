@@ -16,8 +16,8 @@ IP Webcam - Google Play application used in order to pass the image from phone c
   - Write generated server ip to url section of main.py
 
 ✨ How it works ✨
-- It gets the display from phone camera
-- Process it to image
+- Gets the display from phone camera
+- Processes it to image
 - Scans the image for barcode
 - Resolves the barcode
 - Searches resolved barcode number in defined excel file
